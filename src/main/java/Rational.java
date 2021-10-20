@@ -23,6 +23,8 @@ public class Rational {
     // 2) Calculate the value of the new denominator
     // 3) Create a new Rational variable with the two above values
     // 4) Return your new Rational variable
+    // (When you write the simplify method later on, you should
+    // also call it in this method to return the simplifed result)
     public static Rational add(Rational r, Rational s) {
         // REPLACE WITH YOUR CODE HERE
         return null;
@@ -46,7 +48,8 @@ public class Rational {
     }
 
     // Finds the greatest common factor between a and b
-    // To find the greatest common factor,
+    // To find the greatest common factor, find the largest number x
+    // such that a and b are both multiples of x
     public static int greatestCommonFactor(int a, int b){
         // REPLACE WITH YOUR CODE HERE
         return 1;
