@@ -16,7 +16,7 @@ public class Rational {
         denominator = b;
     }
     
-    // This method takes two Rationals, add thems up, 
+    // This method takes two Rationals, add them up,
     // and returns a Rational equal to the sum
     // You will need to:
     // 1) Calculate the value of the new numerator
@@ -24,7 +24,7 @@ public class Rational {
     // 3) Create a new Rational variable with the two above values
     // 4) Return your new Rational variable
     // (When you write the simplify method later on, you should
-    // also call it in this method to return the simplifed result)
+    // also call it in this method to return the simplified result)
     public static Rational add(Rational r, Rational s) {
         // REPLACE WITH YOUR CODE HERE
         return null;
