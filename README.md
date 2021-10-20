@@ -1,4 +1,4 @@
-# Week Eight Day TwoL Rational Class
+# Week Eight Day Two: Rational Class
 
 In this assignment, you'll be implementing the Rational class. Please see Canvas for details on the classwork/homework.
 
