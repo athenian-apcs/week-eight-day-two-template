@@ -57,6 +57,7 @@ public class Rational {
 
     // This method is given a rational, and returns a simplified version
     // of the input rational
+    // Use the greatestCommonFactor method here
     // e.g. simplify(2/4) => 1/2
     //      simplify(1/2) => 1/2
     public static Rational simplify(Rational r) {
