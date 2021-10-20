@@ -1,8 +1,8 @@
-# Rational Class
+# Week Eight Day TwoL Rational Class
 
 In this assignment, you'll be implementing the Rational class. Please see Canvas for details on the classwork/homework.
 
-Add code to [Rational.java](src/main/java/Ratioonal.java) to do the desired thing.
+Add code to [Rational.java](src/main/java/Rational.java) to do the desired thing.
 
 ## Run your code with:
 The easiest way to run your code is to press the play button in [MyMain.java](src/main/java/MyMain.java).
